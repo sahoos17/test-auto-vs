@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mastercard-dwp-test", "mastercard-dwp-test\mastercard-dwp-test.csproj", "{61478788-16FE-446E-8F64-5481D92E5190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61478788-16FE-446E-8F64-5481D92E5190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61478788-16FE-446E-8F64-5481D92E5190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61478788-16FE-446E-8F64-5481D92E5190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61478788-16FE-446E-8F64-5481D92E5190}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F2DCE94-661B-451E-BD99-D7343EC2ADA7}
+	EndGlobalSection
+EndGlobal
