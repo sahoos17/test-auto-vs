@@ -1,9 +1,0 @@
-C:\github\test-auto-csharp\mastercard-dwp-test\.vs\mastercard-dwp-test\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\github\test-auto-csharp\mastercard-dwp-test\.vs\mastercard-dwp-test\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\github\test-auto-csharp\mastercard-dwp-test\.vs\mastercard-dwp-test\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\github\test-auto-csharp\mastercard-dwp-test\.vs\mastercard-dwp-test\lut\0\b\mastercard-dwp-test.dll
-C:\github\test-auto-csharp\mastercard-dwp-test\.vs\mastercard-dwp-test\lut\0\b\mastercard-dwp-test.pdb
-C:\github\test-auto-csharp\mastercard-dwp-test\.vs\mastercard-dwp-test\lut\0\i\mastercard-dwp-test\Debug\mastercard-dwp-test.csprojResolveAssemblyReference.cache
-C:\github\test-auto-csharp\mastercard-dwp-test\.vs\mastercard-dwp-test\lut\0\i\mastercard-dwp-test\Debug\mastercard-dwp-test.csproj.CoreCompileInputs.cache
-C:\github\test-auto-csharp\mastercard-dwp-test\.vs\mastercard-dwp-test\lut\0\i\mastercard-dwp-test\Debug\mastercard-dwp-test.dll
-C:\github\test-auto-csharp\mastercard-dwp-test\.vs\mastercard-dwp-test\lut\0\i\mastercard-dwp-test\Debug\mastercard-dwp-test.pdb
